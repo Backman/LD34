@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &123200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 496564}
+  - 114: {fileID: 11480984}
+  - 114: {fileID: 11448336}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &496564
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123200}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.63, y: 2.18, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11448336
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e8eb5ab1c789e84f97b7d67459270c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RekDuration: 0.05
+  FreezeValue: 0.08
+--- !u!114 &11480984
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70fb76cf0f0464d06bdb0bd57b2563c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartSpawnSettings: {fileID: 0}
+  SpawnBotsOnStart: 1
+  WaterSpawing:
+    WaterPickupPrefab: {fileID: 149324, guid: 3e745fbe4aed943f5bf1875f8f546085, type: 2}
+  Dialog:
+    TreeBox: {fileID: 0}
+    RobotBox: {fileID: 0}
+    TreeVoiceClips:
+    - {fileID: 8300000, guid: 19e67b901aee24c4e9f3c5e53dc6aae9, type: 3}
+    - {fileID: 8300000, guid: 7f0066a06d61b8742933e6b8af94e86d, type: 3}
+    - {fileID: 8300000, guid: 5115809487fe9f4498c82ba939fbf010, type: 3}
+    - {fileID: 8300000, guid: dc2a73271a929fb4eacd64935f021083, type: 3}
+    - {fileID: 8300000, guid: bf58af59694b5ad4f99a352852683d55, type: 3}
+    - {fileID: 8300000, guid: 440a71a9d534aaf46b69939a49bd34c8, type: 3}
+    - {fileID: 8300000, guid: ddd5b5a907cce4547948b716768eee2a, type: 3}
+    - {fileID: 8300000, guid: 8c432f8aeeb33e642aecc1fd007b4fda, type: 3}
+    - {fileID: 8300000, guid: 693eab8bad62e0f489cffd1e6d17465f, type: 3}
+    - {fileID: 8300000, guid: cba451feb5825e74dbb73d0054794a42, type: 3}
+    TreeQuestionClip: {fileID: 8300000, guid: dc2a73271a929fb4eacd64935f021083, type: 3}
+    RobotVoiceClips:
+    - {fileID: 8300000, guid: 35b18e83e14b51f49bf0585c85b6f59b, type: 3}
+    - {fileID: 8300000, guid: 380ce874204d2cc42a502420f02f41c9, type: 3}
+    - {fileID: 8300000, guid: d52076c62d7666041a1960a9d39e8b22, type: 3}
+    - {fileID: 8300000, guid: 23d3cc373e7ea754089282a4db810422, type: 3}
+    - {fileID: 8300000, guid: 9e89d3e77af8d0d41adc352c2cb4576b, type: 3}
+    - {fileID: 8300000, guid: d2f6101a37d648a47aed9ffdd6047552, type: 3}
+    - {fileID: 8300000, guid: 505dde0b2de931d4da7a14d276b3e922, type: 3}
+    - {fileID: 8300000, guid: dccf69dd36a6209499c361df1a5c979d, type: 3}
+    - {fileID: 8300000, guid: a3ad9a8e7e567a44689e1882a3f2a3a5, type: 3}
+    - {fileID: 8300000, guid: b4a7544f7689d8046877a05afd1842a1, type: 3}
+    RobotQuestionClip: {fileID: 8300000, guid: 9e89d3e77af8d0d41adc352c2cb4576b, type: 3}
+    VoiceVolume: 0.8
+    MinPitch: 0.85
+    MaxPitch: 1.15
+  Objectives:
+    Objectives: {fileID: 11400000, guid: 36c9bd9b6da8f4971bf450e5d076e095, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 123200}
+  m_IsPrefabParent: 1

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5409feeed81464048ba644671d4ffae2, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  Entries:
+  - Person: 0
+    Text: Lonely..
+    StartDelay: 0
+    ScrollForwardTime: 1
+    LingerTime: 1
+  - Person: 0
+    Text: Want garden..
+    StartDelay: 1
+    ScrollForwardTime: 1
+    LingerTime: 2
+  - Person: 1
+    Text: . . . .
+    StartDelay: 2
+    ScrollForwardTime: 1.5
+    LingerTime: 0.4
+  - Person: 0
+    Text: . . .     life?   ^_^
+    StartDelay: 0.3
+    ScrollForwardTime: 3
+    LingerTime: 2

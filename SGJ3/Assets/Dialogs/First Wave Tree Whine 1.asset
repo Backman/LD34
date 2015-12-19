@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5409feeed81464048ba644671d4ffae2, type: 3}
+  m_Name: First Wave Tree Whine 1
+  m_EditorClassIdentifier: 
+  Entries:
+  - Person: 1
+    Text: H...H..HELP! YOU ARE HURTING ME! PLEASE GO AWAY!
+    StartDelay: 0
+    ScrollForwardTime: 0.8
+    LingerTime: 1.5
+  - Person: 0
+    Text: '...! PLANT LIFE DISTRESS LEVEL ELEVATED!'
+    StartDelay: 0.5
+    ScrollForwardTime: 0.8
+    LingerTime: 1.2
+  - Person: 0
+    Text: '...NO SOLUTIONS FOUND. 3LLIS - NOT DESIGNED FOR COMBAT.
+
+      WAITING FOR INPUT.'
+    StartDelay: 0.2
+    ScrollForwardTime: 1
+    LingerTime: 1.4
+  - Person: 1
+    Text: ANYTHING THAT CAN HELP WILL DO!
+    StartDelay: 0.1
+    ScrollForwardTime: 1.2
+    LingerTime: 2
+  - Person: 0
+    Text: AFFIRMATIVE. 3LLIS WILL TRY TO REMOVE PLANT THREAT - USING RAKE FUNCTION!
+    StartDelay: 0.5
+    ScrollForwardTime: 1.2
+    LingerTime: 3

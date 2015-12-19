@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0946c1e7211e7f45bea7050637cd48b, type: 3}
+  m_Name: Kickback
+  m_EditorClassIdentifier: 
+  XCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 10.193154
+      outSlope: 10.193154
+      tangentMode: 0
+    - time: 0.16
+      value: 1
+      inSlope: 0.092012145
+      outSlope: 0.092012145
+      tangentMode: 0
+    - time: 0.74927866
+      value: -0.39240667
+      inSlope: -0.06980417
+      outSlope: -0.06980417
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  YCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: -3.2857141
+      outSlope: -3.2857141
+      tangentMode: 10
+    - time: 0.07
+      value: -0.22999999
+      inSlope: -0.038690448
+      outSlope: -0.038690448
+      tangentMode: 10
+    - time: 0.19
+      value: 0.155
+      inSlope: 1.6850116
+      outSlope: 1.6850116
+      tangentMode: 10
+    - time: 0.25887382
+      value: 0.1661362
+      inSlope: -2.1766663
+      outSlope: -2.1766663
+      tangentMode: 10
+    - time: 0.32999998
+      value: -0.155
+      inSlope: -1.234784
+      outSlope: -1.234784
+      tangentMode: 10
+    - time: 0.44
+      value: 0.07
+      inSlope: 0.5751302
+      outSlope: 0.5751302
+      tangentMode: 10
+    - time: 0.55003744
+      value: -0.028504841
+      inSlope: -0.30091202
+      outSlope: -0.30091202
+      tangentMode: 10
+    - time: 0.694106
+      value: 0.013760507
+      inSlope: 0.124192595
+      outSlope: 0.124192595
+      tangentMode: 10
+    - time: 1
+      value: 0
+      inSlope: -0.044984557
+      outSlope: -0.044984557
+      tangentMode: 10
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  LifetimeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0.175
+      inSlope: 0.03999999
+      outSlope: 0.03999999
+      tangentMode: 10
+    - time: 1
+      value: 0.21499999
+      inSlope: 0.03999999
+      outSlope: 0.03999999
+      tangentMode: 10
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0

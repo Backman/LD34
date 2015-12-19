@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5409feeed81464048ba644671d4ffae2, type: 3}
+  m_Name: Askforwater2
+  m_EditorClassIdentifier: 
+  Entries:
+  - Person: 1
+    Text: MYSTERIOUS GUARDIAN... WHAT IS YOUR NAME?
+    StartDelay: 0
+    ScrollForwardTime: 0.4
+    LingerTime: 2
+  - Person: 0
+    Text: 'I AM MODEL 3:LLIS, TYPE "GARDENER", PURPOSE : PROTECT PLANT LIFE'
+    StartDelay: 0
+    ScrollForwardTime: 0.6
+    LingerTime: 3
+  - Person: 1
+    Text: I SEE. 3LLIS. THANK YOU FOR YOUR HELP. I... COULD I ASK YOU FOR SOME MORE
+      WATER?
+    StartDelay: 0
+    ScrollForwardTime: 0.3
+    LingerTime: 3
+  - Person: 0
+    Text: I AM PROGRAMMED TO HELP. 3LLIS WILL TRY FIND LARGE AMOUNTS OF WATER FOR
+      PLANT LIFE SUSTAINANCE.
+    StartDelay: 0
+    ScrollForwardTime: 0.4
+    LingerTime: 3

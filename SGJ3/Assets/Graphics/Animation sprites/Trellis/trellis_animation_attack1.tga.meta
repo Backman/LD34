@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: e7b21eeb94c4d7844985726a2ad684a1
+timeCreated: 1450013840
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trellis_animation_attack1_0
+    21300002: trellis_animation_attack1_1
+    21300004: trellis_animation_attack1_2
+    21300006: trellis_animation_attack1_3
+    21300008: trellis_animation_attack1_4
+    21300010: trellis_animation_attack1_5
+    21300012: trellis_animation_attack1_6
+    21300014: trellis_animation_attack1_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: trellis_animation_attack1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 30}
+        - {x: -8, y: 30}
+        - {x: -18, y: 17}
+        - {x: -18, y: 11}
+        - {x: -16, y: 4}
+        - {x: -8, y: 5}
+        - {x: -5, y: 11}
+        - {x: -5, y: 16}
+        - {x: -5, y: 7}
+        - {x: -8, y: 3}
+        - {x: -8, y: 0}
+        - {x: 9, y: 0}
+        - {x: 19, y: 7}
+        - {x: 19, y: 17}
+    - name: trellis_animation_attack1_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 34}
+        - {x: -14, y: 34}
+        - {x: -36, y: 17}
+        - {x: -36, y: 8}
+        - {x: -29, y: 3}
+        - {x: -26, y: 4}
+        - {x: -23, y: 6}
+        - {x: -24, y: 5}
+        - {x: -24, y: 1}
+        - {x: -20, y: 0}
+        - {x: 2, y: 0}
+        - {x: 10, y: 5}
+        - {x: 12, y: 7}
+        - {x: 12, y: 14}
+    - name: trellis_animation_attack1_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 70}
+        - {x: 43, y: 75}
+        - {x: -26, y: 75}
+        - {x: -44, y: 69}
+        - {x: -44, y: 27}
+        - {x: -40, y: 23}
+        - {x: -44, y: 20}
+        - {x: -44, y: 7}
+        - {x: -37, y: 0}
+        - {x: 5, y: 0}
+        - {x: 10, y: 10}
+        - {x: 34, y: 11}
+        - {x: 45, y: 22}
+      - - {x: -3, y: 0}
+        - {x: -3, y: 2}
+        - {x: -6, y: 3}
+        - {x: -8, y: 0}
+      - - {x: 2, y: 0}
+        - {x: 2, y: 2}
+        - {x: -1, y: 3}
+        - {x: -3, y: 0}
+    - name: trellis_animation_attack1_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 75}
+        - {x: -34, y: 67}
+        - {x: -44, y: 47}
+        - {x: -44, y: 0}
+        - {x: 45, y: 0}
+        - {x: 45, y: 70}
+        - {x: 21, y: 75}
+      - - {x: -44, y: 12}
+        - {x: -41, y: 13}
+        - {x: -41, y: 16}
+        - {x: -44, y: 17}
+        - {x: -46, y: 15}
+      - - {x: -39, y: 14}
+        - {x: -37, y: 12}
+        - {x: -34, y: 13}
+        - {x: -33, y: 20}
+        - {x: -36, y: 22}
+        - {x: -39, y: 19}
+      - - {x: -29, y: 25}
+        - {x: -31, y: 23}
+        - {x: -31, y: 21}
+        - {x: -29, y: 19}
+        - {x: -27, y: 19}
+        - {x: -25, y: 21}
+        - {x: -25, y: 23}
+        - {x: -27, y: 25}
+    - name: trellis_animation_attack1_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 75}
+        - {x: -41, y: 52}
+        - {x: -41, y: 44}
+        - {x: -39, y: 43}
+        - {x: -19, y: 0}
+        - {x: 42, y: 0}
+        - {x: 42, y: 72}
+        - {x: 30, y: 75}
+      - - {x: -44, y: 22}
+        - {x: -44, y: 10}
+        - {x: -41, y: 0}
+        - {x: -17, y: 0}
+        - {x: -17, y: 9}
+        - {x: -23, y: 22}
+      - - {x: -39, y: 22}
+        - {x: -37, y: 20}
+        - {x: -34, y: 21}
+        - {x: -34, y: 24}
+        - {x: -36, y: 26}
+        - {x: -39, y: 25}
+      - - {x: -46, y: 23}
+        - {x: -44, y: 21}
+        - {x: -41, y: 22}
+        - {x: -41, y: 25}
+        - {x: -43, y: 27}
+        - {x: -46, y: 26}
+    - name: trellis_animation_attack1_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 72}
+        - {x: -15, y: 65}
+        - {x: -15, y: 0}
+        - {x: 30, y: 0}
+        - {x: 38, y: 6}
+        - {x: 38, y: 53}
+        - {x: 26, y: 72}
+      - - {x: -30, y: 22}
+        - {x: -40, y: 22}
+        - {x: -45, y: 20}
+        - {x: -47, y: 17}
+        - {x: -47, y: 10}
+        - {x: -42, y: 7}
+        - {x: -29, y: 7}
+        - {x: -28, y: 10}
+        - {x: -28, y: 21}
+      - - {x: 15, y: 15}
+        - {x: 18, y: 16}
+        - {x: 18, y: 19}
+        - {x: 15, y: 20}
+        - {x: 13, y: 18}
+      - - {x: -46, y: 19}
+        - {x: -43, y: 20}
+        - {x: -43, y: 23}
+        - {x: -46, y: 24}
+        - {x: -48, y: 22}
+      - - {x: -40, y: 21}
+        - {x: -37, y: 22}
+        - {x: -37, y: 25}
+        - {x: -40, y: 26}
+        - {x: -42, y: 24}
+      - - {x: -14, y: 63}
+        - {x: -11, y: 64}
+        - {x: -11, y: 67}
+        - {x: -14, y: 68}
+        - {x: -16, y: 66}
+      - - {x: -3, y: 68}
+        - {x: 0, y: 69}
+        - {x: 0, y: 72}
+        - {x: -3, y: 73}
+        - {x: -5, y: 71}
+    - name: trellis_animation_attack1_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 40}
+        - {x: 25, y: 28}
+        - {x: 7, y: 33}
+        - {x: -6, y: 33}
+        - {x: -12, y: 20}
+        - {x: -15, y: 3}
+        - {x: -15, y: 0}
+        - {x: 26, y: 0}
+        - {x: 38, y: 15}
+        - {x: 38, y: 40}
+      - - {x: -30, y: 9}
+        - {x: -27, y: 10}
+        - {x: -27, y: 13}
+        - {x: -30, y: 14}
+        - {x: -32, y: 12}
+      - - {x: -45, y: 10}
+        - {x: -42, y: 11}
+        - {x: -42, y: 14}
+        - {x: -45, y: 15}
+        - {x: -47, y: 13}
+      - - {x: -43, y: 24}
+        - {x: -45, y: 23}
+        - {x: -45, y: 18}
+        - {x: -42, y: 16}
+        - {x: -38, y: 16}
+        - {x: -36, y: 17}
+        - {x: -36, y: 22}
+        - {x: -39, y: 24}
+      - - {x: -48, y: 24}
+        - {x: -47, y: 23}
+        - {x: -44, y: 24}
+        - {x: -44, y: 27}
+        - {x: -47, y: 28}
+        - {x: -48, y: 27}
+      - - {x: 28, y: 48}
+        - {x: 32, y: 42}
+        - {x: 35, y: 43}
+        - {x: 35, y: 47}
+        - {x: 31, y: 52}
+        - {x: 28, y: 51}
+      - - {x: 22, y: 52}
+        - {x: 25, y: 53}
+        - {x: 25, y: 56}
+        - {x: 22, y: 57}
+        - {x: 20, y: 55}
+      - - {x: 20, y: 58}
+        - {x: 23, y: 59}
+        - {x: 23, y: 62}
+        - {x: 20, y: 63}
+        - {x: 18, y: 61}
+    - name: trellis_animation_attack1_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 30}
+        - {x: 33, y: 29}
+        - {x: 22, y: 33}
+        - {x: -5, y: 33}
+        - {x: -15, y: 22}
+        - {x: -15, y: 0}
+        - {x: 29, y: 0}
+        - {x: 37, y: 15}
+        - {x: 38, y: 24}
+        - {x: 38, y: 29}
+      - - {x: -45, y: 20}
+        - {x: -43, y: 18}
+        - {x: -40, y: 19}
+        - {x: -40, y: 22}
+        - {x: -42, y: 24}
+        - {x: -45, y: 23}
+      - - {x: 27, y: 26}
+        - {x: 26, y: 21}
+        - {x: 28, y: 19}
+        - {x: 29, y: 19}
+        - {x: 32, y: 22}
+        - {x: 32, y: 25}
+        - {x: 30, y: 27}
+      - - {x: -48, y: 24}
+        - {x: -47, y: 23}
+        - {x: -44, y: 24}
+        - {x: -44, y: 27}
+        - {x: -47, y: 28}
+        - {x: -48, y: 27}
+      - - {x: 28, y: 46}
+        - {x: 31, y: 42}
+        - {x: 33, y: 42}
+        - {x: 35, y: 43}
+        - {x: 35, y: 47}
+        - {x: 31, y: 52}
+        - {x: 28, y: 51}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

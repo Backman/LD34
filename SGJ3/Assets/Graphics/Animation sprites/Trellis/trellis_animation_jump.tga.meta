@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 3e411f83ec1f69649bf08158b24a80d3
+timeCreated: 1449953744
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trellis_animation_jump_0
+    21300002: trellis_animation_jump_1
+    21300004: trellis_animation_jump_2
+    21300006: trellis_animation_jump_3
+    21300008: trellis_animation_jump_4
+    21300010: trellis_animation_jump_5
+    21300012: trellis_animation_jump_6
+    21300014: trellis_animation_jump_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: trellis_animation_jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 27}
+        - {x: -6, y: 27}
+        - {x: -12, y: 23}
+        - {x: -15, y: 12}
+        - {x: -15, y: 2}
+        - {x: -13, y: 0}
+        - {x: 8, y: 0}
+        - {x: 10, y: 1}
+        - {x: 10, y: 20}
+    - name: trellis_animation_jump_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 27}
+        - {x: -6, y: 27}
+        - {x: -12, y: 23}
+        - {x: -15, y: 12}
+        - {x: -15, y: 2}
+        - {x: -13, y: 0}
+        - {x: 8, y: 0}
+        - {x: 10, y: 1}
+        - {x: 10, y: 20}
+    - name: trellis_animation_jump_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 36}
+        - {x: -5, y: 36}
+        - {x: -15, y: 22}
+        - {x: -15, y: 16}
+        - {x: -14, y: 13}
+        - {x: -11, y: 14}
+        - {x: -8, y: 17}
+        - {x: -10, y: 14}
+        - {x: -10, y: 9}
+        - {x: -13, y: 3}
+        - {x: -13, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 4}
+        - {x: 9, y: 34}
+    - name: trellis_animation_jump_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 46}
+        - {x: -13, y: 29}
+        - {x: -13, y: 11}
+        - {x: -11, y: 1}
+        - {x: -3, y: 1}
+        - {x: 11, y: 11}
+        - {x: 11, y: 46}
+    - name: trellis_animation_jump_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 47}
+        - {x: -13, y: 32}
+        - {x: -13, y: 5}
+        - {x: -11, y: 0}
+        - {x: -7, y: 0}
+        - {x: 8, y: 6}
+        - {x: 12, y: 26}
+        - {x: 12, y: 47}
+    - name: trellis_animation_jump_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 47}
+        - {x: -13, y: 32}
+        - {x: -13, y: 1}
+        - {x: 0, y: 1}
+        - {x: 9, y: 5}
+        - {x: 12, y: 30}
+        - {x: 12, y: 47}
+    - name: trellis_animation_jump_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 47}
+        - {x: -12, y: 39}
+        - {x: -12, y: 3}
+        - {x: 8, y: 3}
+        - {x: 11, y: 4}
+        - {x: 12, y: 11}
+        - {x: 12, y: 47}
+    - name: trellis_animation_jump_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 47}
+        - {x: -1, y: 45}
+        - {x: -7, y: 35}
+        - {x: -12, y: 26}
+        - {x: -12, y: 3}
+        - {x: -3, y: 3}
+        - {x: 7, y: 8}
+        - {x: 12, y: 18}
+        - {x: 12, y: 47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

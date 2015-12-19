@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5409feeed81464048ba644671d4ffae2, type: 3}
+  m_Name: Second Wave Thank
+  m_EditorClassIdentifier: 
+  Entries:
+  - Person: 1
+    Text: 'THANK YOU ONCE AGAIN GUARDIAN.
+
+      WITH YOUR HELP I GROW STRONGER!'
+    StartDelay: 0
+    ScrollForwardTime: 1.2
+    LingerTime: 2
+  - Person: 1
+    Text: 'WHY ARE YOU HELPING ME WHEN EVERYONE ELSE
+
+      WANTS ME GONE?'
+    StartDelay: 0
+    ScrollForwardTime: 2
+    LingerTime: 2
+  - Person: 0
+    Text: '3LLIS NURTURE PLANT LIFE. '
+    StartDelay: 1
+    ScrollForwardTime: 3
+    LingerTime: 1
+  - Person: 1
+    Text: 'I... WILL NEVER FORGET WHAT YOU HAVE DONE FOR ME,
+
+      MY BELOVED FRIEND AND GUARDIAN.'
+    StartDelay: 0.5
+    ScrollForwardTime: 4
+    LingerTime: 3
+  - Person: 0
+    Text: NO RESPONSE FOR "GUARDIAN" . DID YOU MEAN "GARDENING"?
+    StartDelay: 0
+    ScrollForwardTime: 2
+    LingerTime: 2
+  - Person: 1
+    Text: HUMBLE, HUH? YES... I FEEL IT! A LITTLE MORE WATER, AND I WILL REACH OUT
+      ENOUGH TO BECOME SELF-SUSTAINING.
+    StartDelay: 0
+    ScrollForwardTime: 3
+    LingerTime: 3
+  - Person: 0
+    Text: SELF SUSTAINING = GOOD. 3LLIS UNDERSTAND. WATER FOR PLANT = IN PROGRESS.
+    StartDelay: 0
+    ScrollForwardTime: 4
+    LingerTime: 3

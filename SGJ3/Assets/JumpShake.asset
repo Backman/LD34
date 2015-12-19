@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0946c1e7211e7f45bea7050637cd48b, type: 3}
+  m_Name: JumpShake
+  m_EditorClassIdentifier: 
+  XCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 10.193154
+      outSlope: 10.193154
+      tangentMode: 0
+    - time: 0.16
+      value: 1
+      inSlope: 0.092012145
+      outSlope: 0.092012145
+      tangentMode: 0
+    - time: 0.59258664
+      value: -0.51152563
+      inSlope: -0.06980417
+      outSlope: -0.06980417
+      tangentMode: 0
+    - time: 0.8606341
+      value: 0.18231949
+      inSlope: 0.48533082
+      outSlope: 0.48533082
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  YCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 10
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 10
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  LifetimeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0.21694478
+      inSlope: 0.045000017
+      outSlope: 0.045000017
+      tangentMode: 10
+    - time: 1
+      value: 0.2619448
+      inSlope: 0.045000017
+      outSlope: 0.045000017
+      tangentMode: 10
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0

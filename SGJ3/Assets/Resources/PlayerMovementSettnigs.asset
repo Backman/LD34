@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70194b0d6000f234d986c468d04295f1, type: 3}
+  m_Name: PlayerMovementSettnigs
+  m_EditorClassIdentifier: 
+  Deceleration:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0.099999994
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 1
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  DecelerationScale: 50
+  DecelerationCurveMax: 6
+  Acceleration:
+    serializedVersion: 2
+    m_Curve:
+    - time: -0.002176278
+      value: 1.0015335
+      inSlope: -0.43912742
+      outSlope: -0.43912742
+      tangentMode: 10
+    - time: 0.77849376
+      value: 0.6587199
+      inSlope: -1.7064742
+      outSlope: -1.7064742
+      tangentMode: 10
+    - time: 1
+      value: 0
+      inSlope: -2.973821
+      outSlope: -2.973821
+      tangentMode: 10
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  AccelerationScale: 30
+  MaxSpeed: 3.8
+  MinJumpForce: 8.5
+  MaxJumpForce: 18
+  DownGravity: 5
+  UpGravity: 5
+  JumpCooldown: 0.4
+  JumpDelay: 0.25
+  MinLandingDelay: 0.2
+  MaxLandingDelay: 0.5
+  MinFallImpact: 14
+  MaxFallImpact: 18
+  FallImpactForce: 18
+  GroundingCheckDistance: 0.8

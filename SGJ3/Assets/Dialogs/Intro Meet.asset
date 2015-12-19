@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5409feeed81464048ba644671d4ffae2, type: 3}
+  m_Name: Intro Meet
+  m_EditorClassIdentifier: 
+  Entries:
+  - Person: 0
+    Text: PLANT LIFE DETECTED.
+    StartDelay: 0
+    ScrollForwardTime: 1
+    LingerTime: 1
+  - Person: 0
+    Text: '... PLANT LIFE DETECTED?'
+    StartDelay: 0
+    ScrollForwardTime: 3
+    LingerTime: 1
+  - Person: 0
+    Text: PLANT LIFE DETECTED!
+    StartDelay: 0
+    ScrollForwardTime: 0.8
+    LingerTime: 0.4
+  - Person: 0
+    Text: PLANT LIFE DETECTED! ! !
+    StartDelay: 0
+    ScrollForwardTime: 0.8
+    LingerTime: 2
+  - Person: 1
+    Text: . . .W . . . WATER . . .
+    StartDelay: 0.3
+    ScrollForwardTime: 1
+    LingerTime: 2
+  - Person: 0
+    Text: 'ANALYSIS: PLANT MOISTURE LEVEL CRITICAL...!'
+    StartDelay: 0.6
+    ScrollForwardTime: 1.4
+    LingerTime: 0.7
+  - Person: 0
+    Text: MUST OBTAIN WATER TO WATER PLANT.
+    StartDelay: 0
+    ScrollForwardTime: 1
+    LingerTime: 2.5
