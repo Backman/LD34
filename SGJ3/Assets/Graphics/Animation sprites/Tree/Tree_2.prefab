@@ -8,7 +8,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 467064}
-  - 58: {fileID: 5869988}
+  - 61: {fileID: 6179972}
   m_Layer: 11
   m_Name: Mouth
   m_TagString: TreeMouth
@@ -118,20 +118,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 449586}
   m_RootOrder: 1
---- !u!58 &5869988
-CircleCollider2D:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 104682}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 0.86
 --- !u!60 &6051474
 PolygonCollider2D:
   m_ObjectHideFlags: 1
@@ -189,6 +175,20 @@ PolygonCollider2D:
     - - {x: 1.0546997, y: 2.754837}
       - {x: 1.2087208, y: 3.1795096}
       - {x: 0.51888514, y: 2.7061954}
+--- !u!61 &6179972
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 104682}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.1145007, y: 0.7815852}
+  serializedVersion: 2
+  m_Size: {x: 1.9856921, y: 4.415087}
 --- !u!198 &19841630
 ParticleSystem:
   m_ObjectHideFlags: 1
